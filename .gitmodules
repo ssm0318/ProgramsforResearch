@@ -1,0 +1,9 @@
+[submodule "AppMinder_IDC2024"]
+	path = AppMinder_IDC2024
+	url = https://github.com/ssm0318/AppMinder_IDC2024
+[submodule "CommunityBot"]
+	path = CommunityBot
+	url = https://github.com/ssm0318/CommunityBot
+[submodule "Research-Tools"]
+	path = Research-Tools
+	url = https://github.com/ssm0318/Research-Tools
