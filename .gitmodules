@@ -16,3 +16,6 @@
 [submodule "AndroidSensingApp_IDC2024"]
 	path = AndroidSensingApp_IDC2024
 	url = https://github.com/ssm0318/AndroidSensingApp_IDC2024.git
+[submodule "ResearchTools"]
+	path = ResearchTools
+	url = https://github.com/ssm0318/ResearchTools.git
