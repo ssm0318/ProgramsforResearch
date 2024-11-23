@@ -7,3 +7,12 @@
 [submodule "Research-Tools"]
 	path = Research-Tools
 	url = https://github.com/ssm0318/Research-Tools
+[submodule "WhoamITodayWIT"]
+	path = WhoamITodayWIT
+	url = https://github.com/ssm0318/WhoamITodayWIT.git
+[submodule "SensingDataProcessing_IDC2024"]
+	path = SensingDataProcessing_IDC2024
+	url = https://github.com/ssm0318/SensingDataProcessing_IDC2024.git
+[submodule "AndroidSensingApp_IDC2024"]
+	path = AndroidSensingApp_IDC2024
+	url = https://github.com/ssm0318/AndroidSensingApp_IDC2024.git
